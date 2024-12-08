@@ -1,6 +1,6 @@
 const app = require("./app");
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.dlopen.PORT || 3000;
 
 
 app.listen(PORT, () => {
